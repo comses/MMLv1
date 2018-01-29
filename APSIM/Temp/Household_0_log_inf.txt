@@ -1,0 +1,8 @@
+Household: deltint(): initialized
+Household: phase is send
+Season Change to:spring
+Household: phase is send
+Household: deltint(): assess Season:spring
+ovicaprid pop:24.0 avg_fodder_req:739.0 init_grazing:4.0
+Pop=6, expectation=0.0, land need=1940.0, grazing need=4434.0, maximum allowable agricultural land = 2880
+Household: phase is send

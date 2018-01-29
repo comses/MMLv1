@@ -1,0 +1,7 @@
+0 grey
+1 yellow
+5 orange
+20 magenta
+30 aqua
+40 indigo
+50 green

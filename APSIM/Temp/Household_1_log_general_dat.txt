@@ -1,0 +1,1 @@
+init_pop:6,max_dist_cost:2800

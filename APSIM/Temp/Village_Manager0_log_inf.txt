@@ -1,0 +1,6 @@
+Village 0
+VM: UpdatePopulation(): new population is 6
+VM: UpdatePopulation(): new population is 12
+VM: UpdatePopulation(): new population is 18
+VillageManager: deltext(): UpdateVillageSite()...
+New site: 726255,4283395 726265,4283395 726285,4283395 726255,4283385 726265,4283385 726275,4283385 726285,4283385 726295,4283385 726265,4283375 726275,4283375 726285,4283375 Returning from UpdateVillageSite()
