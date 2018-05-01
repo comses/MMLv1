@@ -31,19 +31,19 @@ Choose the "permissions" tab, and check the box that says "allow executing file 
 
 Alternatively, you can do this from the terminal (Linux or Mac):
 
-	cd /home/<username>/APSIM/Scripts #navigate to the scripts directory
-	sudo chmod 777 *.py #set permissions for all script files.
+`cd /home/<username>/APSIM/Scripts` #navigate to the scripts directory`
+
+`sudo chmod 777 *.py` #set permissions for all script files.
 
 4) (Linux only) Add the "ubuntugis-unstable" PPA repository to your APT-sources list. Open a terminal and type: 
 
-	sudo add-apt-repository ppa:ubuntugis/ubuntugis-unstable
+`sudo add-apt-repository ppa:ubuntugis/ubuntugis-unstable`
 
 (NOTE: This is the repository from which we will get the latest GRASS-6.4)
 
 5) (Linux only)Update the package list, and install any system updates:
 
-	sudo apt-get update
-	sudo apt-get dist-upgrade
+`sudo apt-get update && sudo apt-get dist-upgrade`
 
 (NOTE: It's always important to have your system completely up to date, but on a newly installed machine, this command will download and install many updates. This is important, so be patient.)
 
@@ -51,7 +51,7 @@ Alternatively, you can do this from the terminal (Linux or Mac):
 
 Linux: 
 
-	sudo apt-get install grass grass-dev openjdk-7-jre python2.7 wxpython
+`sudo apt-get install grass grass-dev openjdk-7-jre python2.7 wxpython`
 	
 Mac: Download the latest DMG files for each of these, and install as per directions.
 
